@@ -1,0 +1,13 @@
+name: AO
+title: null
+theme: minima
+titles_from_headings:
+  enabled: true
+  striip_title: true
+  collections: true
+header_pages:
+  - brainhack_doc.md
+  - Institutions.md
+  - Logistics.md
+  - Mailiing.md
+  - Projects.md
